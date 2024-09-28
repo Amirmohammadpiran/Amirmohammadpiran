@@ -1,6 +1,5 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ![](https://raw.githubusercontent.com/rockcor/rockcor/output/github-contribution-grid-snake-dark.svg)
-
 
 ## 📈 My Experience!
 
