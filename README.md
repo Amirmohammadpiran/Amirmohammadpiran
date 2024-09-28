@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+![](https://raw.githubusercontent.com/rockcor/rockcor/output/github-contribution-grid-snake-dark.svg)
 <!--
 **Amirmohammadpiran/Amirmohammadpiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
