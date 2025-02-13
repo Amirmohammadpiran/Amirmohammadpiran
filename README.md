@@ -1,7 +1,7 @@
 ## Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ![](https://raw.githubusercontent.com/rockcor/rockcor/output/github-contribution-grid-snake-dark.svg)
 
-## 📈 My Experience!
+## 📈 My Experience
 
 <p align="left"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Amirmohammadpiran&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="Trophies" /> 
@@ -13,7 +13,7 @@
 
 
 
-## 🔗 Connect with Me
+## 🔗 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amir-mohammad-piran-33069a228)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amirmohammadpiran)
